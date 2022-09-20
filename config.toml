@@ -47,7 +47,7 @@ enableEmoji = true
     loadonepass = false
 
 [params.copyright]
-    name = "wistlyr"
+    name = "wtrclr"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     url = ""
@@ -77,12 +77,6 @@ enableEmoji = true
     name = "COMMS"
     url = "/comm/"       # The path can lead to a content folder too.
     weight = 30
-
-  [[menu.main]]
-    identifier = "sfw"
-    name = "SFW"
-    url = "https://whistler.page"       # The path can lead to a content folder too.
-    weight = 40
 
 [taxonomies]
 category = "categories"
@@ -115,3 +109,4 @@ tag = "tags"
 
   [services.twitter]
     disableInlineCSS = true
+    
