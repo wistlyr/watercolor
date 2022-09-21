@@ -5,12 +5,20 @@ date = "2001-03-28"
 aliases = ["wisty","contact"]
 +++
 
+{{< highlight html >}}
+Checking file system on C:
+The type of the file system is NTFS.
+
+One of your disks needs to be checked for consistency. You may cancel the disk check, but it is strongly recommended that you continue.
+To skip disk checking, press any key within 10 second(s).
+{{< /highlight >}}
+
+## About Watercolor
+
 **Hello.**
 
-[WATERCOLOR.WHISTLER.PAGE](https://watercolor.whistler.page) is for my NSFW works. You have to be 18+ to read them.
+I write NSFW works under the name `wtrclr` here. You have to be 18+ to read them.
 
-I will write pretty much anything. As such, you may see kinks here that you consider depraved. Please use the tags to find what you like.
-
-Please be patient for anything new. I am slow to write, and it takes a while for me to progress right now.
+I will write pretty much anything. As such, you may see fetishes here that you consider depraved. Please use the tags to find what you like. Please be patient for anything new.
 
 You can commission my writing if you want. Please see [this post](https://watercolor.whistler.page/comm).
