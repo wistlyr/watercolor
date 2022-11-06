@@ -6,7 +6,7 @@ draft: false
 ---
 
 ## COMMISSION STATUS: `CLOSED`
-## CURRENTLY HANDLING: `1/2`
+## CURRENTLY HANDLING: `0/2`
 
 Hello. If you have any questions, or are ready to commission, please ask on Discord. `wistlyr#6900`
 
