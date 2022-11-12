@@ -73,10 +73,16 @@ enableEmoji = true
     weight = 20
 
   [[menu.main]]
+    identifier = "catalog"
+    name = "CATALOG"
+    url = "https://idx01.whistler.page"       # The path can lead to a content folder too.
+    weight = 30
+
+  [[menu.main]]
     identifier = "comms"
     name = "COMMS"
     url = "/comm/"       # The path can lead to a content folder too.
-    weight = 30
+    weight = 40
 
 [taxonomies]
 category = "categories"
